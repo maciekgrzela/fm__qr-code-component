@@ -17,16 +17,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/maciekgrzela/fm__qr-code-component/main/qr-code-component/src/assets/screen_web.png)
-![](https://raw.githubusercontent.com/maciekgrzela/fm__qr-code-component/main/qr-code-component/src/assets/screen_mobile.png)
+![Web](https://raw.githubusercontent.com/maciekgrzela/fm__qr-code-component/main/qr-code-component/src/assets/screen_web.png)
+![Mobile](https://raw.githubusercontent.com/maciekgrzela/fm__qr-code-component/main/qr-code-component/src/assets/screen_mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/maciekgrzela/fm__qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/maciekgrzela/fm__qr-code-component)
+- Live Site URL: [Live site URL](https://maciekgrzela.github.io/fm__qr-code-component/index.html)
 
-## My process
 
 ### Built with
 
