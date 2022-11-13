@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fm__qr-code-component.iml" filepath="$PROJECT_DIR$/.idea/fm__qr-code-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/qr-code-component.iml" filepath="$PROJECT_DIR$/.idea/qr-code-component.iml" />
     </modules>
   </component>
 </project>
