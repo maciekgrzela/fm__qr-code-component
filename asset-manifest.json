@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fm__qr-code-component/static/css/main.0b7fe484.css",
+    "main.js": "/fm__qr-code-component/static/js/main.5346af5b.js",
+    "index.html": "/fm__qr-code-component/index.html",
+    "main.0b7fe484.css.map": "/fm__qr-code-component/static/css/main.0b7fe484.css.map",
+    "main.5346af5b.js.map": "/fm__qr-code-component/static/js/main.5346af5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b7fe484.css",
+    "static/js/main.5346af5b.js"
+  ]
+}
